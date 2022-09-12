@@ -144,6 +144,31 @@ body {
     margin: 0 auto;
 }
 
+.commerce {
+    margin-bottom: 136px;
+    text-align: center;
+}
+
+.commerce-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    margin-bottom: 79px;
+}
+
+.commerce-pretitle {
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 23px;
+    margin: 42px 0 16px;
+}
+
+.commerce-text {
+    font-size: 15px;
+    line-height: 22px;
+    max-width: 316px;
+}
+
 .footer {
     padding: 58px 0;
     background:#20003C;
